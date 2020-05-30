@@ -54,13 +54,12 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    size: cover;
+    position: center;
 
 }
 

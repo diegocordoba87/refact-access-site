@@ -168,11 +168,11 @@ p {
 } 
 took out to avoid repetitive code*/
 
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -181,15 +181,17 @@ took out to avoid repetitive code*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} 
 
-.benefit-lead img {
+repetitive code removed*/
+
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -199,7 +201,7 @@ took out to avoid repetitive code*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+}  repetitive code removed */
 footer {
     padding: 30px;
     clear: both;

@@ -4,29 +4,26 @@
     padding: 0;
     margin: 0;
 }
-header {
+
+header nav {
+    width: 100%;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
     
 }
-
-main {
-    background-color: #d9dcd6;
-}
-
-
-header h1 {
+header nav h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+header nav h1 .seo {
     color: #d9dcd6;
 }
 
 header nav {
+    width: 100%;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,6 +39,11 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+main {
+    background-color: #d9dcd6;
+}
+
 
 a {
     color: #ffffff;
@@ -59,6 +61,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+
 }
 
 .float-left {
